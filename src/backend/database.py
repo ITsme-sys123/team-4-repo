@@ -129,7 +129,7 @@ initial_activities = {
             "end_time": "20:00"
         },
         "max_participants": 15,
-        "participants": []
+        "participants": ["sikha.rani@wegmans.com", "karen.neary@wegmans.com", "rick.schwan@wegmans.com", "michael.lopez@wegmans.com", "Benjamin.Feldstein@wegmans.com"]
     },
     "Debate Team": {
         "description": "Develop public speaking and argumentation skills",
